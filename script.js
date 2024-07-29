@@ -100,7 +100,7 @@ document.getElementById("submitBtn").addEventListener("click", function() {
                 {
                     headers: {
                         "Content-Type": "application/json",
-                        Authorization: "Bearer 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"
+                        Authorization: "Bearer your_api_news_ke"
                     }
                 }
             ).then(function(response) {
